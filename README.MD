@@ -1,4 +1,8 @@
+<p align="center">
+   <img src="https://github.com/srrogerio/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/Jogo-do-Amigo-Secreto-500x500.png"/>
+</p>
 
+<hr>
 <h1 align="center">Jogo do Amigo Secreto </h1>
 
 <hr>
