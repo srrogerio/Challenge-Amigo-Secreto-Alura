@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/logo-jogo-do-amigo-secreto.png"/>
+   <img src="https://raw.githubusercontent.com/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/logo-jogo-amigo-secreto-50x50.png"/>
 </p>
 
 <hr>
@@ -34,7 +34,7 @@
 
 O sistema permitirá o monitoramento diário, contínuo e remoto do nível de glicose no sangue (glicemia), possibilitando que familiares, cuidadores, profissionais da saúde ou o próprio paciente acompanhem o estado clínico do mesmo.
 
-![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.](https://raw.githubusercontent.com/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/Jogo-do-Amigo-Secreto-500x500.png)
+![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.](https://raw.githubusercontent.com/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/banner-jogo-amigo-secreto-590x252.png)
 </p>
 
 ## Funcionalidades
