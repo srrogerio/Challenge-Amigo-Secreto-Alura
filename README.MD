@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/srrogerio/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/Jogo-do-Amigo-Secreto-500x500.png"/>
+   <img src="https://raw.githubusercontent.com/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/Jogo-do-Amigo-Secreto-500x500.png"/>
 </p>
 
 <hr>
