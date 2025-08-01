@@ -59,7 +59,7 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 <div align="center">
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/aplicativo.gif">
+<img src="https://raw.githubusercontent.com/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/aplicativo-grande.gif">
 </p>
 
 
