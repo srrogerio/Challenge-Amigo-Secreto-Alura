@@ -18,24 +18,26 @@
 
 - [Aplicação](#aplicação)
 
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
+- [Tecnologias](#tecnologias)
 
-- [Acesso ao projeto](#acesso-ao-projeto)
-
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
-
-- [Desenvolvedores](#desenvolvedores)
+- [Desenvolvedor](#desenvolvedor)
 
 ## Descrição do projeto 
 
 <p align="justify">
 Projeto em desenvolvimento para Challenge "Amigo Secreto Alura" - "Fase Seleção Grupo 9 do ONE".
 
-A aplicação permitirá aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
+Com este desafio, você colocará em prática conceitos fundamentais de lógica de programação, como variáveis, condicionais, funções, listas e loops de repetição Esses conceitos constituem a base de qualquer linguagem de programação, independentemente de sua complexidade.
 
-O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
+Aplicação prática do conhecimento:
 
-Os nomes inseridos serão exibidos em uma lista visível na página, e ao finalizar, um botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibindo o resultado na tela.
+Para aprender a manipular dados de forma eficiente, é necessário conhecer o conceito de variáveis, o que facilita a criação de programas que trabalham com informações de forma dinâmica. Condicionais, como o uso de if e else, são de vital importância para controlar o fluxo dos programas.
+
+As funções ajudam a modularizar o código, tornando-o mais organizado e reutilizável. Elas também permitem executar tarefas específicas sempre que necessário, reduzindo as chances de erros.
+
+Saber trabalhar com listas (arrays) é extremamente importante. Os arrays permitem adicionar ou remover elementos, criando aplicações que processam grandes quantidades de dados. Complementando isso, os loops de repetição, como o for, facilitam a execução repetida de ações sobre uma lista de elementos, tornando o processo mais eficiente e menos suscetível a falhas.
+
+Dominar esses conceitos é essencial para desenvolver soluções computacionais, pois formam a base comum de todas as linguagens de programação. Compreendê-los permite adaptar-se a qualquer tecnologia ou plataforma com mais facilidade.
 </p>
 
 <p align="center">
@@ -44,48 +46,38 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 
 
 ## Funcionalidades
+<p align="justify">
+A aplicação permitirá aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
 
-:heavy_check_mark: `Funcionalidade 1:` Realizar cadastro dos usuários, podendo ser paciente ou profissional de saúde.
+O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
 
-:heavy_check_mark: `Funcionalidade 2:` Armazenar dados do usuário, como glicemia, atividade física, alimentação, medicação, administração de insulina e peso no banco de dados na Cloud Firestore.
-
-:heavy_check_mark: `Funcionalidade 3:` Plotar gráfico com histórico dos níveis glicêmicos do paciente.
-
-:heavy_check_mark: `Funcionalidade 4:` Chat com entre o paciente e profissional da saúde.
+Os nomes inseridos serão exibidos em uma lista visível na página, e ao finalizar, um botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibindo o resultado na tela.
+</p>
 
 ## Aplicação
 
 <div align="center">
 
-![Android Emulator](https://user-images.githubusercontent.com/37356058/135944390-ec96d4ec-ee43-4db9-882f-89be66aad23a.gif)
+<p align="center">
+<img src="https://raw.githubusercontent.com/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/aplicativo.gif">
+</p>
+
 
   </div>
 
 ###
 
-## Ferramentas utilizadas
-
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" alt="androidStudio" width="40" height="40"/> </a> <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="40" height="40"/> </a>
+## Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
 ###
 
-## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/camilafernanda/GlicoCare) ou [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
+## Desenvolvedor
 
-## Abrir e rodar o projeto
-
-Após baixar o projeto, você pode abrir com o `Android Studio`. Para isso, na tela de launcher clique em:
-
-- `Open an Existing Project` (ou alguma opção similar);
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo);
-- Por fim clique em `OK`.
-
-O `Android Studio` deve executar algumas tasks do *Gradle* para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆 
-
-## Desenvolvedores
-
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Clóvis Ribeiro Júnior</sub>](https://github.com/crovim)  |
-| :---: | :---: 
+|  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/12056766?v=4" width=115><br><sub>Rogério Candido</sub>](https://github.com/srrogerio) |
+| :---: |
