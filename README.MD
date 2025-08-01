@@ -1,9 +1,8 @@
-<p align="center">
-   <img src="https://raw.githubusercontent.com/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/logo-jogo-amigo-secreto-50x50.png"/>
-</p>
-
 <hr>
-<h1 align="center">Jogo do Amigo Secreto </h1>
+<h1 align="center"> 
+<img src="https://raw.githubusercontent.com/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/logo-jogo-amigo-secreto-50x50.png"/>
+&nbsp;Jogo do Amigo Secreto 
+</h1>
 
 <hr>
 
@@ -30,12 +29,19 @@
 ## Descrição do projeto 
 
 <p align="justify">
- Projeto em desenvolvimento para disciplina Instrumentação Biomédica II do curso de Engenharia Biomédica. O GlicoCare é um sistema de telemonitoramento domiciliar para a atenção especializada de pessoas acometidas por diabetes mellitus.
+Projeto em desenvolvimento para Challenge "Amigo Secreto Alura" - "Fase Seleção Grupo 9 do ONE".
 
-O sistema permitirá o monitoramento diário, contínuo e remoto do nível de glicose no sangue (glicemia), possibilitando que familiares, cuidadores, profissionais da saúde ou o próprio paciente acompanhem o estado clínico do mesmo.
+A aplicação permitirá aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
 
-![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.](https://raw.githubusercontent.com/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/banner-jogo-amigo-secreto-590x252.png)
+O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
+
+Os nomes inseridos serão exibidos em uma lista visível na página, e ao finalizar, um botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibindo o resultado na tela.
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/banner-jogo-amigo-secreto-590x252.png">
+</p>
+
 
 ## Funcionalidades
 
