@@ -7,7 +7,7 @@
 <hr>
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" />
 </p>
 
 ### Tópicos 
@@ -68,9 +68,7 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 
 ## Acesso
 
-[Você pode acessar o código fonte do projeto clicando aqui !!!](https://github.com/srrogerio/Challenge-Amigo-Secreto-Alura) </br> 
-ou 
-</br>
+[Você pode acessar o código fonte do projeto clicando aqui !!!](https://github.com/srrogerio/Challenge-Amigo-Secreto-Alura) </br> ou </br>
 [Você também pode testar o projeto clicando aqui !!!](https://github.com/srrogerio/Challenge-Amigo-Secreto-Alura) 
 </br></br>
 
