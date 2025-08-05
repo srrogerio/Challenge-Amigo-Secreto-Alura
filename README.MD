@@ -18,6 +18,8 @@
 
 - [Aplicação](#aplicação)
 
+- [Acesso ao projeto](#acesso)
+
 - [Tecnologias](#tecnologias)
 
 - [Desenvolvedor](#desenvolvedor)
@@ -61,11 +63,16 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 <p align="center">
 <img src="https://raw.githubusercontent.com/srrogerio/Challenge-Amigo-Secreto-Alura/refs/heads/main/assets/aplicativo-grande.gif">
 </p>
+</div>
+</br>
 
+## Acesso
 
-  </div>
-
-###
+[Você pode acessar o código fonte do projeto clicando aqui !!!](https://github.com/srrogerio/Challenge-Amigo-Secreto-Alura) </br> 
+ou 
+</br>
+[Você também pode testar o projeto clicando aqui !!!](https://github.com/srrogerio/Challenge-Amigo-Secreto-Alura) 
+</br></br>
 
 ## Tecnologias
 <div>
