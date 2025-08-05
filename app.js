@@ -35,8 +35,8 @@ function atualizaListaAmigos(){
 
 // Função para sortear um amigo
 function sortearAmigo(){
-    if (listaAmigos.length < 2){
-        alert('É necessário um mínimo de dois nomes para realizar o sorteio!!!')
+    if (listaAmigos.length < 4){
+        alert('É necessário um mínimo de quatro nomes para realizar o sorteio!!!')
     } else {
         indiceAleatorio = Math.floor(Math.random() * listaAmigos.length);
         amigoSorteado = listaAmigos[indiceAleatorio];
