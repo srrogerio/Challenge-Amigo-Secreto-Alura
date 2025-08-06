@@ -69,7 +69,7 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 ## Acesso
 
 [Você pode acessar o código fonte do projeto clicando aqui !!!](https://github.com/srrogerio/Challenge-Amigo-Secreto-Alura) </br> ou </br>
-[Você também pode testar o projeto clicando aqui !!!](https://github.com/srrogerio/Challenge-Amigo-Secreto-Alura) 
+[Você também pode testar o projeto clicando aqui !!!](https://srrogerio.github.io/Challenge-Amigo-Secreto-Alura/)
 </br></br>
 
 ## Tecnologias
